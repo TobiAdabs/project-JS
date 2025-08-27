@@ -1,5 +1,4 @@
 # ⟪Project Javascript⟫
-<br>
 - These projects will help you understand the basics of Javascript
 - It might even help you to get more complex concepts like:
 > While Loops <br>
